@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/quiz-khelo/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/quiz-khelo/static/js/main.c36d2934.chunk.js",
+    "main.js.map": "/quiz-khelo/static/js/main.c36d2934.chunk.js.map",
+    "runtime-main.js": "/quiz-khelo/static/js/runtime-main.d3656a3e.js",
+    "runtime-main.js.map": "/quiz-khelo/static/js/runtime-main.d3656a3e.js.map",
+    "static/js/2.8e1b23d3.chunk.js": "/quiz-khelo/static/js/2.8e1b23d3.chunk.js",
+    "static/js/2.8e1b23d3.chunk.js.map": "/quiz-khelo/static/js/2.8e1b23d3.chunk.js.map",
+    "index.html": "/quiz-khelo/index.html",
+    "precache-manifest.42fac2ad246d0054dade08f423f1900e.js": "/quiz-khelo/precache-manifest.42fac2ad246d0054dade08f423f1900e.js",
+    "service-worker.js": "/quiz-khelo/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/quiz-khelo/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.8e1b23d3.chunk.js.LICENSE.txt": "/quiz-khelo/static/js/2.8e1b23d3.chunk.js.LICENSE.txt",
+    "static/media/image1.jpg": "/quiz-khelo/static/media/image1.6c9699db.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3656a3e.js",
+    "static/js/2.8e1b23d3.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.c36d2934.chunk.js"
+  ]
+}
